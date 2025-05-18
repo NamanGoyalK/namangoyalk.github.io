@@ -83776,7 +83776,7 @@ return A.bP(A.di(B.ac,16,2,A.aw2(B.FV,B.U4,new A.a2V(this),A.lw(s,s,s,s,s,s,s,s,
 XM(a){var s=this
 return A.bP(A.Ch(B.zv,A.b([A.X5(a,B.FC,"Email",new A.a2Y(s)),A.X5(a,B.FD,"Phone",new A.a2Z(a)),A.X5(a,B.Fd,"LinkedIn",new A.a3_(s)),A.X5(a,B.Fe,"GitHub",new A.a30(s)),A.X5(a,B.nr,"Play Store",new A.a31(s))],t.p),12,10),null,null)}}
 A.a2V.prototype={
-$0(){this.a.lt("https://drive.google.com/file/d/1-UaVKBlbwkUwEIgvXnqG-bGXu8vMtW_z/view?usp=sharing")},
+$0(){this.a.lt("assets/resume.pdf")},
 $S:0}
 A.a2Y.prototype={
 $0(){return this.a.lt("mailto:namangoyaldev@gmail.com")},
